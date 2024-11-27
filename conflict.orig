@@ -1,8 +1,0 @@
-this is a conflict file
-every thing should be same
-<<<<<<< HEAD
-solve can slove the conflict
-=======
-solve cannot slove the conflict
->>>>>>> origin/version3.3
-
